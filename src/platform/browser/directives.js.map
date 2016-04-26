@@ -1,0 +1,1 @@
+{"version":3,"file":"directives.js","sourceRoot":"","sources":["directives.ts"],"names":[],"mappings":"AAAA;;GAEG;;AAEH,qBAA2C,eAAe,CAAC,CAAA;AAE3D,mBAAmB;AACnB,uBAAgC,iBAAiB,CAAC,CAAA;AAGlD,iFAAiF;AACpE,8BAAsB,GAC9B,0BAAiB,QACrB,CAAC;AAEW,kBAAU,GAAG;IACxB,cAAO,CAAC,0BAAmB,EAAE,EAAE,KAAK,EAAE,IAAI,EAAE,QAAQ,EAAE,8BAAsB,EAAE,CAAC;CAChF,CAAC"}
